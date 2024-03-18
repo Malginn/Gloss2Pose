@@ -15,4 +15,4 @@
 
 ## <a name="Sources">Sources</a>
 - [Mediapipe для выделения ключевых точек из изображений](https://developers.google.com/mediapipe)
-- [Датастет РЯЖ]([https://www.researchgate.net/publication/371681469_Segmentacia_zeleznodoroznyh_putej_sovremennymi_svertocnymi_nejronnymi_setami](https://habr.com/ru/companies/sberdevices/articles/737018/)https://habr.com/ru/companies/sberdevices/articles/737018/)
+- [Датастет РЯЖ](https://habr.com/ru/companies/sberdevices/articles/737018/)
