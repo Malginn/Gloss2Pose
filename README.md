@@ -38,7 +38,7 @@ Check if these cuda and __cuDNN__ drivers match
 
 ## <a name="Demo">Demo</a>
 
-https://github.com/Malginn/Rail_segm/assets/89131328/8f164965-b0aa-4881-959d-b8ba9276bfdb
+[https://github.com/Malginn/Rail_segm/assets/89131328/8f164965-b0aa-4881-959d-b8ba9276bfdb](https://github.com/Malginn/Gloss2Pose/assets/89131328/c0706620-fa3b-4061-916b-ae01f6527095)
 
 ## <a name="TODO">TODO</a>:
 - Enrich training examples to improve model accuracy
