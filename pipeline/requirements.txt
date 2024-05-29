@@ -1,8 +1,0 @@
-matplotlib
-numpy
-opencv_python
-torch
-scikit-learn
-mediapipe
-msvc-runtime
-ultralytics
