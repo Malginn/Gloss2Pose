@@ -15,7 +15,7 @@ Russian had no open analogues at the time of the development of this project, an
 - [OpenCV](https://opencv.org/)
 
 ## <a name="Development">Development</a>
-![plans](https://github.com/Malginn/Gloss2Pose/assets/89131328/0f844cab-8ba8-40ea-989a-11a8053a15ce)
+![plans](https://github.com/Malginn/Gloss2Pose/assets/89131328/a2f84837-0d4b-486a-9fc1-eb16e6b60cc5)
 
 The dev directory is the root, we have modules:
 - `keypoints_creator.py` for converting videos to dots(Creating a language database)
