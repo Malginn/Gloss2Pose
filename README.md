@@ -17,7 +17,7 @@ Russian had no open analogues at the time of the development of this project, an
 ## <a name="Development">Development</a>
 ![plans](https://github.com/Malginn/Gloss2Pose/assets/89131328/a2f84837-0d4b-486a-9fc1-eb16e6b60cc5)
 
-"The project is designed to minimize the need for direct model inference to generate key points and images. Instead, it allows for the extraction of data directly from a pre-built database containing key points and lemmatized words. These data can then be connected using transition algorithms, which in this case operate linearly, selecting the shortest path between consecutive states.
+The project is designed to minimize the need for direct model inference to generate key points and images. Instead, it allows for the extraction of data directly from a pre-built database containing key points and lemmatized words. These data can then be connected using transition algorithms, which in this case operate linearly, selecting the shortest path between consecutive states.
 
 The dev directory is the root, we have modules:
 - `keypoints_creator.py` for converting videos to dots(Creating a language database)
