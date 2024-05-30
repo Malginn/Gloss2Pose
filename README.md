@@ -1,5 +1,5 @@
-# Segmentation of switches on the railway
-This project solves the problems of recognizing switches on the railway, taking into account the time of day and weather conditions. 
+# Translation of lemmatized text into Russian Sign language video
+This project is part of a system for creating visual subtitles for real-time videos for people who speak Russian sign language. 
 
 ✅On support.
 
