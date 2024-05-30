@@ -17,6 +17,8 @@ Russian had no open analogues at the time of the development of this project, an
 ## <a name="Development">Development</a>
 ![plans](https://github.com/Malginn/Gloss2Pose/assets/89131328/a2f84837-0d4b-486a-9fc1-eb16e6b60cc5)
 
+"The project is designed to minimize the need for direct model inference to generate key points and images. Instead, it allows for the extraction of data directly from a pre-built database containing key points and lemmatized words. These data can then be connected using transition algorithms, which in this case operate linearly, selecting the shortest path between consecutive states.
+
 The dev directory is the root, we have modules:
 - `keypoints_creator.py` for converting videos to dots(Creating a language database)
 - `combined_jsons.py` to combine json files of words into a single file for further processing
@@ -37,5 +39,6 @@ The dev directory is the root, we have modules:
 
 
 ## <a name="Sources">Sources</a>
-- [RailSem19: A Dataset for Semantic Rail Scene Understanding](https://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Zendel_RailSem19_A_Dataset_for_Semantic_Rail_Scene_Understanding_CVPRW_2019_paper.pdf)
-- [Сегментация железнодорожных путей современными сверточными нейронными сетями](https://www.researchgate.net/publication/371681469_Segmentacia_zeleznodoroznyh_putej_sovremennymi_svertocnymi_nejronnymi_setami)
+- [Dataset "Slovo"](https://developers.sber.ru/portal/products/slovo)
+- [Mediapipe docs](https://mediapipe.readthedocs.io/en/latest/)
+- 
