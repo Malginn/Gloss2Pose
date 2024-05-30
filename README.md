@@ -3,6 +3,8 @@ Russian had no open analogues at the time of the development of this project, an
 
 ✅On support.
 
+![pipeline](https://github.com/Malginn/Gloss2Pose/assets/89131328/5dd50837-0593-4f08-92b1-9d6905790814)
+
 ## Contents
 - [Technologies](#Technologies)
 - [Development](#Development)
@@ -41,4 +43,12 @@ The dev directory is the root, we have modules:
 ## <a name="Sources">Sources</a>
 - [Dataset "Slovo"](https://developers.sber.ru/portal/products/slovo)
 - [Mediapipe docs](https://mediapipe.readthedocs.io/en/latest/)
-- 
+- @inproceedings{moryossef2023baseline,
+  title={An Open-Source Gloss-Based Baseline for Spoken to Signed Language Translation},
+  author={Moryossef, Amit and M{\"u}ller, Mathias and G{\"o}hring, Anne and Jiang, Zifan and Goldberg, Yoav and Ebling, Sarah},
+  booktitle={2nd International Workshop on Automatic Translation for Signed and Spoken Languages (AT4SSL)},
+  year={2023},
+  month={June},
+  url={https://github.com/ZurichNLP/spoken-to-signed-translation},
+  note={Available at: \url{https://arxiv.org/abs/2305.17714}}
+}
