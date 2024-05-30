@@ -28,7 +28,6 @@ The dev directory is the root, we have modules:
 - `create_show_frames.py` to create JPEG images and test the resulting skeletons
 - `frames_to_video.py` to create a video from the received frames with a given fps, adjusted to the timeline of the video
 
-### On this __drive__ you can find all the data that was used or generated in this project [Google Drive](https://drive.google.com/drive/folders/1fTvgyfbYXH-9kYn9OYU3ISHZQnuNmelm?usp=sharing)
 -----------
 
 ## <a name="Demo">Demo</a>
@@ -36,8 +35,9 @@ The dev directory is the root, we have modules:
 [https://github.com/Malginn/Rail_segm/assets/89131328/8f164965-b0aa-4881-959d-b8ba9276bfdb](https://github.com/Malginn/Gloss2Pose/assets/89131328/c0706620-fa3b-4061-916b-ae01f6527095)
 
 ## <a name="TODO">TODO</a>:
-- Enrich training examples to improve model accuracy
-- Play with threshold values `IoU` and `Conf`
+- Replace the linear transition between frames with a mathematical model to describe movements according to human anatomy
+- Create an interface for adding new items to the project database
+- Improve and normalize the markup and dimensions of people in the video
 
 
 ## <a name="Sources">Sources</a>
