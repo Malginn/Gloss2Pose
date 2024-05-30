@@ -1,5 +1,5 @@
 # Translation of lemmatized text into Russian Sign language video
-This project is part of a system for creating visual subtitles for real-time videos for people who speak Russian sign language. 
+Russian had no open analogues at the time of the development of this project, and we would like other teams to be able to use our work in their projects and promote the topic of creating animations of Russian sign language, since there are many nuances in this area, ranging from transitions between gestures and ending up to the transmission of the correct intonation using gestures.
 
 ✅On support.
 
