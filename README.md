@@ -43,4 +43,4 @@ The dev directory is the root, we have modules:
 ## <a name="Sources">Sources</a>
 - [Dataset "Slovo"](https://developers.sber.ru/portal/products/slovo)
 - [Mediapipe docs](https://mediapipe.readthedocs.io/en/latest/)
-- Moryossef, A., Müller, M., Göring, A., Jiang, Z., Goldberg, Y., & Ebling, S. (2023). An Open-Source Gloss-Based Baseline for Spoken to Signed Language Translation. In Proceedings of the 2nd International Workshop on Automatic Translation for Signed and Spoken Languages (AT4SSL), June 2023. [ZurichNLP/spoken-to-signed-translation](https://github.com/ZurichNLP/spoken-to-signed-translation) Доступно на: [arXiv:2305.17714](https://arxiv.org/abs/2305.17714)
+- Moryossef, A., Müller, M., Göring, A., Jiang, Z., Goldberg, Y., & Ebling, S. (2023). An Open-Source Gloss-Based Baseline for Spoken to Signed Language Translation. In Proceedings of the 2nd International Workshop on Automatic Translation for Signed and Spoken Languages (AT4SSL), June 2023. [ZurichNLP/spoken-to-signed-translation](https://github.com/ZurichNLP/spoken-to-signed-translation) Available on: [arXiv:2305.17714](https://arxiv.org/abs/2305.17714)
