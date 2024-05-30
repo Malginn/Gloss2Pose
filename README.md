@@ -12,13 +12,14 @@ Russian had no open analogues at the time of the development of this project, an
 - [Sources](#Sources)
 
 ## <a name="Technologies">Technologies</a>
-- [YOLOv8](https://github.com/ultralytics/ultralytics)
+- [MediaPipe]([https://github.com/ultralytics/ultralytics](https://mediapipe.readthedocs.io/en/latest/))
 ## <a name="Usage">Usage</a>
 To install the project, just ___clone the project___ and install the dependencies from the ___requirement.txt___ file
 
 ```sh
 pip install -r requirements.txt
 ```
+
 To run, configure the paths for the `code/model/inference.ipynb` file and run the code for training or forward pass
 
 To view the metric values ​​that the model received during training, view the `results` folder
