@@ -5,7 +5,6 @@ Russian had no open analogues at the time of the development of this project, an
 
 ## Contents
 - [Technologies](#Technologies)
-- [Usage](#Usage)
 - [Development](#Development)
 - [Demo](#Demo)
 - [TODO](#TODO)
@@ -14,26 +13,14 @@ Russian had no open analogues at the time of the development of this project, an
 ## <a name="Technologies">Technologies</a>
 - [MediaPipe](https://mediapipe.readthedocs.io/en/latest/)
 - [OpenCV](https://opencv.org/)
-## <a name="Usage">Usage</a>
-To install the project, just ___clone the project___ and install the dependencies from the ___requirement.txt___ file
-
-```sh
-pip install -r requirements.txt
-```
-
-To run, configure the paths for the `code/model/inference.ipynb` file and run the code for training or forward pass
-
-To view the metric values ​​that the model received during training, view the `results` folder
-
 
 ## <a name="Development">Development</a>
-During development, the version of CUDA 12.1 for pytorch was used, so the same version is indicated in the requirements file
-```
-torch==2.2.1+cu121
-torcaudio==2.2.1+cu121
-torchvision==0.17.1+cu121
-```
-Check if these cuda and __cuDNN__ drivers match
+The dev directory is the root, we have modules:
+- `keypoints_creator.py` for converting videos to dots(Creating a language database)
+- `combined_jsons.py` to combine json files of words into a single file for further processing
+- `smooth_transition.py` to create smooth transitions between the last extreme frames (linear transition, requires revision)
+- `create_show_frames.py` to create JPEG images and test the resulting skeletons
+- `frames_to_video.py` to create a video from the received frames with a given fps, adjusted to the timeline of the video
 
 ### On this __drive__ you can find all the data that was used or generated in this project [Google Drive](https://drive.google.com/drive/folders/1fTvgyfbYXH-9kYn9OYU3ISHZQnuNmelm?usp=sharing)
 -----------
