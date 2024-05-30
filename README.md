@@ -12,7 +12,8 @@ Russian had no open analogues at the time of the development of this project, an
 - [Sources](#Sources)
 
 ## <a name="Technologies">Technologies</a>
-- [MediaPipe]([https://github.com/ultralytics/ultralytics](https://mediapipe.readthedocs.io/en/latest/))
+- [MediaPipe](https://mediapipe.readthedocs.io/en/latest/)
+- [OpenCV](https://opencv.org/)
 ## <a name="Usage">Usage</a>
 To install the project, just ___clone the project___ and install the dependencies from the ___requirement.txt___ file
 
